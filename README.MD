@@ -22,3 +22,4 @@ python3 manage.py createsuperuser
 using console
 create work folder in app bot management and creating new python package in management called commands
 
+To be updated...
